@@ -1,2 +1,2 @@
-# thatsroop.github.com
+# thatsroop.github.io
 My new Angular App
